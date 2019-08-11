@@ -1,6 +1,6 @@
-# SF-TheftCrimes-SpatialAndTimeSeriesAnalysis
+# SFO-TheftCrimes-SpatialAndTimeSeriesAnalysis
 
-Taken the opensource data from SF Police Department 
+Taken the opensource data from SFO Police Department 
 Spatial and Time-Series Analysis of SFO Crimes
 Tools Used: Python, Matplotlib, Pandas, Seaborn, Numpy and ARIMA model
 
