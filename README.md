@@ -1,7 +1,7 @@
-# California-TheftCrimes-SpatialAndTimeSeriesAnalysis
+# SF-TheftCrimes-SpatialAndTimeSeriesAnalysis
 
-Taken the opensource data from California Police Department 
-Spatial and Time-Series Analysis of California Crimes
+Taken the opensource data from SF Police Department 
+Spatial and Time-Series Analysis of SFO Crimes
 Tools Used: Python, Matplotlib, Pandas, Seaborn, Numpy and ARIMA model
 
 Techniques Used: Exploratory Data Analysis, Time-Series Analysis, Spatial Analysis, Matplotlib Visualization.
